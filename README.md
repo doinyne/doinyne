@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=doinyne&labelColor=%2337d67a&countColor=%23555555)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doinyne)](https://github.com/doinyne/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doinyne&layout=compact)](https://github.com/doinyne/github-readme-stats)
