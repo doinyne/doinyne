@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Sweepstake Project
 [![wakatime](https://wakatime.com/badge/user/84f770b7-133a-452b-a73b-784bd2380a0f/project/6dbdc6d7-bc8e-4b07-92f6-c123bade47b5.svg)](https://wakatime.com/badge/user/84f770b7-133a-452b-a73b-784bd2380a0f/project/6dbdc6d7-bc8e-4b07-92f6-c123bade47b5)
 
-
-[![Langs](<figure><embed src="https://wakatime.com/share/@doinyne/7bb1d683-7cde-4ea5-8953-38fa6d571d55.svg"></embed></figure>)
+<src="https://wakatime.com/share/@doinyne/7bb1d683-7cde-4ea5-8953-38fa6d571d55.svg">
 
