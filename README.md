@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 my name is Dean, I have just completed Makers Academies 12-week coding bootcamp.
 
-- 🔭 I’m currently working on my final major project at Makers Academy called Sweepstake
+- 🔭 I’m currently working on exploring the potential of my final major project at Makers Academy called Sweepstake
 - 🌱 I’m currently learning Ruby, Rails and Javascript 
 - 📫 How to reach me: d.lewis.rave@gmail.com
 <!--
