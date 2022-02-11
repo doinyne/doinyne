@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Dean, I have just completed Makers Academy's 12-week coding bootcamp.
+### Hi there 👋 my name is Dean, I am a Makers Academy 12-week coding bootcamp graduate.
 
 - 🔭 I’m currently working on exploring the potential of my final major project at Makers Academy called Sweepstake
 - 🌱 I’m currently learning Ruby, Rails and Javascript 
