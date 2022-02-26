@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doinyne&layout=compact)](https://github.com/doinyne/github-readme-stats)
 <!-- - ⚡ Sweepstake Project -->
 <!-- [![wakatime](https://wakatime.com/badge/user/84f770b7-133a-452b-a73b-784bd2380a0f/project/6dbdc6d7-bc8e-4b07-92f6-c123bade47b5.svg)](https://wakatime.com/badge/user/84f770b7-133a-452b-a73b-784bd2380a0f/project/6dbdc6d7-bc8e-4b07-92f6-c123bade47b5) -->
+[![codewars](https://www.codewars.com/users/Doinyne/badges/small?theme=light)
