@@ -2,8 +2,7 @@
 
 <!-- 🔭 I’m currently working on exploring the potential of my final major project at Makers Academy called Sweepstake -->
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me: d.lewis.rave@gmail.com or via LindedIn 
-- <a href="https://www.linkedin.com/in/deanalewis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deanalewis" height="30" width="40" /></a>
+- 📫 How to reach me: d.lewis.rave@gmail.com or via [LindedIn](<a href="https://www.linkedin.com/in/deanalewis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deanalewis" height="30" width="40" /></a>)
 <!--
 **doinyne/doinyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
