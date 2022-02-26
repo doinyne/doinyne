@@ -3,6 +3,7 @@
 <!-- 🔭 I’m currently working on exploring the potential of my final major project at Makers Academy called Sweepstake -->
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: d.lewis.rave@gmail.com or via [LindedIn](https://www.linkedin.com/in/deanalewis/)
+- Feel free to take a look at my [CV](https://www.linkedin.com/in/deanalewis/details/featured/)
 <!--
 **doinyne/doinyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
