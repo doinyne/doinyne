@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <!-- 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=doinyne&labelColor=%2337d67a&countColor=%23555555) -->
-![codewars](https://www.codewars.com/users/Doinyne/badges/small?theme=light)
+![codewars](https://www.codewars.com/users/Doinyne/badges/small?theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doinyne&layout=compact)](https://github.com/doinyne/github-readme-stats)
 <!-- - ⚡ Sweepstake Project -->
