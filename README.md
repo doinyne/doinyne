@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: d.lewis.rave@gmail.com or via [LinkedIn](https://www.linkedin.com/in/deanalewis/)
 - Feel free to take a look at my [CV](https://www.linkedin.com/in/deanalewis/details/featured/)
-- Here is a link to my final group engineering project at Makers Academy [Sweepstake Generator](https://aqueous-cliffs-99174.herokuapp.com/)
+- Here is a link to my final group engineering project at Makers Academy [Sweepstake Generator](https://aqueous-cliffs-99174.herokuapp.com/), you can also check out the repo [here](https://github.com/DylanRJ/Sweepstake)
 <!--
 **doinyne/doinyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
