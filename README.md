@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Weather Api web app](https://github.com/doinyne/weather)
 
-- 🌱 I’m currently learning **JavaScript, Jest and Interviews**
+- 🌱 I’m currently learning **JavaScript, Jest and refining my interviews skills**
 
 - 📫 How to reach me **d.lewis.rave@gmail.com or via [LinkedIn](https://www.linkedin.com/in/deanalewis/)**
 
