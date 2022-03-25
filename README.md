@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dean Lewis</h1>
 <h3 align="center">A passionate software developer from London</h3>
 
-- 🔭 I’m currently working on [**Weather Api web app**](https://github.com/doinyne/weather)
+- 🔭 I’m currently working on [**Bank Jest test exercise**](https://github.com/doinyne/JS_bank_tech_test)
 
 - 🌱 I’m currently learning **JavaScript, Jest and refining my interviews skills**
 
