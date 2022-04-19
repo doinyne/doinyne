@@ -9,6 +9,15 @@
 
 - 💬 Feel free to take a look at my [CV](https://www.linkedin.com/in/deanalewis/details/featured/)
 
+## Projects
+
+| Name | Description | Tech/tools |
+| ---- | ----------- | ---------- |
+| **[acebook-ace](https://github.com/doinyne/acebook-ace)** | A webapp to replicate Facebook. | Ruby/Rails, React, Bootstrap, RSpec |
+| **[Sweepstake](https://github.com/doinyne/sweepstake)** | A webapp to generate football sweepstakes. Click [here](https://aqueous-cliffs-99174.herokuapp.com/) to check it out | Ruby/Rails, Bootstrap, RSpec |
+| **[Weather API](https://github.com/doinyne/weather)** | A webapp with weather api | JavaScript |
+| **[Bank tech test](https://github.com/doinyne/bank_tech_test)** | Command line bank account emulator | Ruby, RSpec |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deanalewis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deanalewis" height="30" width="40" /></a>
