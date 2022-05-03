@@ -13,6 +13,7 @@
 
 | Name | Description | Tech/tools |
 | ---- | ----------- | ---------- |
+| **[Quick Quiz](https://github.com/doinyne/quiz_app)** | Simple quiz app with highscores | HTML, CSS & Javascript |
 | **[acebook-ace](https://github.com/doinyne/acebook-ace)** | A webapp to replicate Facebook. | Ruby/Rails, React, Bootstrap, RSpec |
 | **[Sweepstake](https://github.com/doinyne/sweepstake)** | A webapp to generate football sweepstakes. Click [here](https://aqueous-cliffs-99174.herokuapp.com/) to check it out | Ruby/Rails, Bootstrap, RSpec |
 | **[Weather API](https://github.com/doinyne/weather)** | A webapp with weather api | JavaScript |
