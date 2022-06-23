@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dean Lewis</h1>
 <h3 align="center">Software engineer from London</h3>
 
+- 🌏 I'm currently taking a break to travel Vietnam🇻🇳 and Sri lanka🇱🇰
+
 <!-- - 🔭 I’m currently working on [**Bank Jest test exercise**](https://github.com/doinyne/JS_bank_tech_test) -->
 
 - 🌱 I’m currently learning **JavaScript, Jest and refining my interviews skills**
